@@ -1,0 +1,6 @@
+flask_cors
+joblib
+requests
+bs4
+googlesearch-python
+scikit-learn
